@@ -94,7 +94,7 @@ If you use this dataset in your research, please cite:
 
 ```bibtex
 @misc{yu2025rxnverif,
-  author       = {Yu, Botao and Baker, Frazier N. and Adu-Ampratwum, Daniel and Zhou, Bo and Chen, Ziru and Liu, Ye and Gao, Wenhao and Ning, Xia and Sun, Huan},
+  author       = {Yu, Botao and Baker, Frazier N. and Adu-Ampratwum, Daniel and Zhou, Bo and Chen, Ziru and Averly, Reza and Liu, Ye and Gao, Wenhao and Ning, Xia and Sun, Huan},
   title        = {{FREA}: A Chemical Reaction Feasibility Verification Dataset},
   year         = {2026},
   publisher    = {GitHub},
