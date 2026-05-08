@@ -1,6 +1,6 @@
-# RxnVerif: A Chemical Reaction Feasibility Verification Dataset
+# FREA: A Chemical Reaction Feasibility Verification Dataset
 
-**RxnVerif** is a binary classification benchmark for chemical reaction feasibility prediction.
+**FREA** is a binary classification benchmark for chemical reaction feasibility prediction.
 Given a set of reactants and a target product represented as SMILES strings, the task is to predict whether the specified transformation is chemically feasible.
 
 ---
@@ -95,10 +95,10 @@ If you use this dataset in your research, please cite:
 ```bibtex
 @misc{yu2025rxnverif,
   author       = {Yu, Botao and Adu-Ampratwum, Daniel and Zhou, Bo and Baker, Frazier N. and Chen, Ziru and Gao, Wenhao and Liu, Ye and Ning, Xia and Sun, Huan},
-  title        = {{RxnVerif}: A Chemical Reaction Feasibility Verification Dataset},
+  title        = {{FREA}: A Chemical Reaction Feasibility Verification Dataset},
   year         = {2026},
   publisher    = {GitHub},
-  howpublished = {\url{https://github.com/OSU-NLP-Group/RxnVerif}},
+  howpublished = {\url{https://github.com/OSU-NLP-Group/FREA}},
 }
 ```
 
